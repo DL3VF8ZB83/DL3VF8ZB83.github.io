@@ -6,9 +6,9 @@ Aufgrund des hohen Schadenpotenzials sind die Erkennung und Analyse dieser Angri
 gestalten sich jedoch sehr schwierig.
 
 ## Nu wolle ma doch ma sehen
-1. Total
-2. toll,
-3. wie 
-4. das
-5. hier
-6. läuft.
+* Total
+* toll,
+* wie 
+* das
+* hier
+* läuft.
