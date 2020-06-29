@@ -14,3 +14,5 @@ gestalten sich jedoch sehr schwierig.
 * läuft.
 
 > Überlebte Katastrophen: Waldsterben, Eiszeit, Ozonloch, Saurer Regen, Euroeinführung, BSE, Vogelgrippe, Schweinegrippe, Klimaerwärmung, Dioxin-Eier, EHEC, Finanzkrise 2009-2012, Maya Kalender, Bahn Streik, Sturmtief Friederike, Dieselskandal
+
+
