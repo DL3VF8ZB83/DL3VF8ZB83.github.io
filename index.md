@@ -16,3 +16,4 @@ gestalten sich jedoch sehr schwierig.
 > Überlebte Katastrophen: Waldsterben, Eiszeit, Ozonloch, Saurer Regen, Euroeinführung, BSE, Vogelgrippe, Schweinegrippe, Klimaerwärmung, Dioxin-Eier, EHEC, Finanzkrise 2009-2012, Maya Kalender, Bahn Streik, Sturmtief Friederike, Dieselskandal
 
 
+<img src="https://cdn.handelszeitung.ch/sites/default/files/styles/16x9_890/public/hz/lead_image/donald-duck-80-jahre-.jpg"/>
